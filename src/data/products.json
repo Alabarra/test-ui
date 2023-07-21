@@ -1,0 +1,77 @@
+{
+    "categoryId":"1001",
+    "products":[
+        {
+            "id":"p01",
+            "title":"London Grill",
+            "picture":"https://s3-eu-central-1.amazonaws.com/www.burgerking.cl/wp-media-folder-bk-chile//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/13/Fotos-BK-web_400x400_London-Grill.png",
+            "offerPrice":9300,
+            "normalPrice":10900,
+            "description":"The King Selection, con 200 gramos de carne a la parrilla en suave Pan de Papa. London Grill combina la deliciosa salsa stacker, con cebolla caramelizada, tocino y queso Cheddar.",
+            "showIcon":false
+        },
+        {
+            "id":"p02",
+            "title":"American Grill",
+            "picture":"https://s3-eu-central-1.amazonaws.com/www.burgerking.cl/wp-media-folder-bk-chile//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/13/Fotos-BK-web_400x400_American-Grill.png",
+            "offerPrice":9100,
+            "normalPrice":9900,
+            "description":"The King Selection, con 200 gramos de carne a la parrilla en suave Pan de Papa. American grill nos deleita con la más fresca lechuga Lollo, tomate, crujiente Tocino, Queso cheddar, cebolla caramelizada y un toque de mayonesa ahumada? mmmm una obra de arte.",
+            "showIcon":true
+        },
+        {
+            "id":"p03",
+            "title":"King Germano",
+            "picture":"https://s3-eu-central-1.amazonaws.com/bk-cl-demo.menu.app/wp-media-folder-burger-king-chile//home/ubuntu/wordpress/web/app/uploads/sites/13/2021/10/Fotos-sitio-BK_400px_King-Germano.png",
+            "offerPrice":6250,
+            "normalPrice":7050,
+            "description":"La nueva preparación del King, jugosa carne a la parrilla, acompañada con queso, tocino crujiente, cebolla caramelizada, pepinillos, kétchup y mostaza",
+            "showIcon":true
+        },
+        {
+            "id":"p04",
+            "title":"King Italiano con Queso",
+            "picture":"https://s3-eu-central-1.amazonaws.com/bk-cl-demo.menu.app/wp-media-folder-burger-king-chile//home/ubuntu/wordpress/web/app/uploads/sites/13/2021/10/Fotos-sitio-BK_400px_King-italiano-con-queso.png",
+            "offerPrice":6150,
+            "normalPrice":6950,
+            "description":"Una mezcla de sabores únicos con el nuevo King italiano con queso! Dos sabrosas carnes a la parrilla acompañada de palta, tomate, mayonesa y queso..",
+            "showIcon":false
+        },
+        {
+            "id":"p05",
+            "title":"Whopper",
+            "picture":"https://s3-eu-central-1.amazonaws.com/bk-cl-demo.menu.app/wp-media-folder-burger-king-chile//home/ubuntu/wordpress/web/app/uploads/sites/13/2021/10/Fotos-sitio-BK_400px_Whopper-Doble.png",
+            "offerPrice":6350,
+            "normalPrice":7150,
+            "description":"La carne a la parrilla de BURGER KING® despierta el hambre, por eso creamos esta opción de WHOPPER® con doble carne de WHOPPER®. Dedicada a sus fanáticos",
+            "showIcon":false
+        },
+        {
+            "id":"p06",
+            "title":"Whopper Extreme",
+            "picture":"https://s3-eu-central-1.amazonaws.com/bk-cl-demo.menu.app/wp-media-folder-burger-king-chile//home/ubuntu/wordpress/web/app/uploads/sites/13/2021/10/Fotos-sitio-BK_400px_Whopper-Extreme-Doble.png",
+            "offerPrice":7350,
+            "normalPrice":8150,
+            "description":"Sabores intensos y un tamaño extremo con Doble Carne. Una variante de WHOPPER® con Queso Cheddar y Tocino que lleva al placer.",
+            "showIcon":false
+        },
+        {
+            "id":"p07",
+            "title":"Rodeo King",
+            "picture":"https://s3-eu-central-1.amazonaws.com/bk-cl-demo.menu.app/wp-media-folder-burger-king-chile//home/ubuntu/wordpress/web/app/uploads/sites/13/2021/10/Fotos-sitio-BK_400px_Rodeo-King-Doble.png",
+            "offerPrice":6350,
+            "normalPrice":7150,
+            "description":"El clásico sabor de la Rodeo King llega en partida doble. Aros de cebolla, queso cheddar y la rica salsa BBQ. Y lo más importante: doble carne Whopper a la parrilla.",
+            "showIcon":false
+        },
+        {
+            "id":"p08",
+            "title":"Steakhouse",
+            "picture":"https://s3-eu-central-1.amazonaws.com/bk-cl-demo.menu.app/wp-media-folder-burger-king-chile//home/ubuntu/wordpress/web/app/uploads/sites/13/2021/10/Fotos-sitio-BK_400px_Steakhouse.png",
+            "offerPrice":7300,
+            "normalPrice":8100,
+            "description":"Disfruta de gran sabor que te da una carne mucho más grande hecha a la parrilla! 100% carne de vacuno, acompañada de queso, cebolla caramelizada, vegetales frescos, salsa BBQ, mayonesa envueltos en un delicioso y crujiente pan.",
+            "showIcon":false
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "categories":[
+        {
+            "id":"1001",
+            "name":"Categoria 1"
+        },
+        {
+            "id":"1002",
+            "name":"Categoria 2"
+        },
+        {
+            "id":"1003",
+            "name":"Categoria 3"
+        },
+        {
+            "id":"1004",
+            "name":"Categoria 4"
+        },
+        {
+            "id":"1005",
+            "name":"Categoria 5"
+        },
+        {
+            "id":"1006",
+            "name":"Categoria 6"
+        },
+        {
+            "id":"1007",
+            "name":"Categoria 7"
+        }
+        
+    ]
+}
